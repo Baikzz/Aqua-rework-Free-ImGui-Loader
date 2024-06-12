@@ -6,8 +6,9 @@ This is a rework from the first loader i have made, did this loader because i'd 
 ### Here you can take a look of the menu (fully showcase on https://youtu.be/YI1lls9MF1Q)<p align="center">
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/Baikzz/Aqua-rework/assets/147743941/b27d3ace-3f5b-402b-8ace-0ef252116289" width="450" height="500" style="margin: 10px;" />  
-  <img src="https://github.com/Baikzz/Aqua-rework/assets/147743941/523f1f7d-f3e8-4174-839a-207c5b54c092" width="450" height="500" style="margin: 10px;" />
+  <img src="https://github.com/Baikzz/Aqua-rework-Free-ImGui-Loader/assets/147743941/41f09eec-b70a-4766-8a1d-4aa2522a1c92" width="450" height="500" style="margin: 10px;" />  
+  <img src="https://github.com/Baikzz/Aqua-rework-Free-ImGui-Loader/assets/147743941/c5133ed5-1107-4c38-9b7e-63e73964a30c" width="450" height="500" style="margin: 10px;" />
 </div>
+
 
 ## PLEASE STAR!! ⭐
