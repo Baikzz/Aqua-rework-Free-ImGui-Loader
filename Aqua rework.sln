@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aqua rework", "Aqua rework\Aqua rework.vcxproj", "{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}.Debug|x64.ActiveCfg = Debug|x64
+		{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}.Debug|x64.Build.0 = Debug|x64
+		{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}.Debug|x86.Build.0 = Debug|Win32
+		{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}.Release|x64.ActiveCfg = Release|x64
+		{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}.Release|x64.Build.0 = Release|x64
+		{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}.Release|x86.ActiveCfg = Release|Win32
+		{CD080CCD-EC32-43E2-837D-4A8A9C7EE4D3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D2B5B1-B765-4DEB-BB5B-59EA425DD7E5}
+	EndGlobalSection
+EndGlobal
