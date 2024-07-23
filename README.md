@@ -2,7 +2,7 @@
 
 ## Aqua rework 
 
-This is a rework from the first loader i have made, did this loader because i'd like to see how my menus have improved in my 2 months of imgui experience, me and some guys created a discord where you can see some works and discuss about topics, all news and stuff will be announced there, if you want to be part of us you can join using this link https://discord.gg/PvrDhtP9CP 
+This is a rework from the first loader i have made, did this loader because i'd like to see how my menus have improved in my 2 months of imgui experience, me and some guys created a discord where you can see some works and discuss about topics, all news and stuff will be announced there, if you want to be part of us you can join using this link https://discord.gg/CsuXTegewj
 
 
 ### Here you can take a look of the menu (fully showcase on https://youtu.be/YI1lls9MF1Q)<p align="center">
